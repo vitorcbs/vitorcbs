@@ -1,4 +1,6 @@
 <h1 align="center"> Hello, welcome to my profile! </h1>
+![ezgif com-gif-maker](https://github.com/vitorcbs/vitorcbs/assets/87830090/e060e476-b845-4a42-a667-4cca31a5b13a)
+
 <h1>About me 🙋‍♂️</h1>
 - I'm Full Stack Developer, actually using Typescript, Angular, .NET and Ionic;
 - I’m technical degree in enterprise administration at ETEC MCM;
